@@ -1,6 +1,6 @@
 {
-    "name": "lingo_game",
-    "short_name": "lingo_game",
+    "name": "Kelimo-web",
+    "short_name": "Kelimo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
